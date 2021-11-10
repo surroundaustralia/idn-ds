@@ -9,7 +9,7 @@ This implementation is in an early stage of development, as of November 2021. As
 
 ## Contact
 
-This work is being undertaken as part of OFFICIAL_PROJECT_TITLE funded by the [Austrlaian Research Data Commons](https://ardc.edu.au/). The technical work for this is being conducted by [Australian National Univeristy](https://www.anu.edu.au), [University of Melbourne](https://www.unimelb.edu.au) and [SURROUND Australia Pty Ltd](https://surroundaustralia.com) staff who are all partners in the OFFICIAL_PROJECT_TITLE project.
+This work is being undertaken as part of OFFICIAL_PROJECT_TITLE funded by the [Australian Research Data Commons](https://ardc.edu.au/). The technical work for this is being conducted by [Australian National Univeristy](https://www.anu.edu.au), [University of Melbourne](https://www.unimelb.edu.au) and [SURROUND Australia Pty Ltd](https://surroundaustralia.com) staff who are all partners in the OFFICIAL_PROJECT_TITLE project.
 
 For initial enquiries, please contact:  
 
