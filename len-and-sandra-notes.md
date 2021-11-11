@@ -31,7 +31,7 @@ This was nominated by Sandra Eades. Investigation, documentation and negotiation
 #### ATSIDA, the Aboriginal and Torres Strait Islander Data Archive at the Australian Data Archive and ANU Archives. 
 This was specifically mentioned in the NCRIS Roadmap as an existing strength to be built on. It needs staff at the Data Archive to fully curate and digitise these collections and make them web-accessible. It includes:
 - Historical Colonial, State and Commonwealth censuses
-- The inter-war Aboriginal censuses
+- The inter-war Aboriginal censuses.
 Len and Gordon's police districts dataset. Catalogued in ATSIDA@ADA: https://www.atsida.edu.au/archive/datasets/au.edu.anu.ada.ddi.20002-nsw
 - The Northern Territory Aboriginal Population Record (APR)
 - Historical population data
