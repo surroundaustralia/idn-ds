@@ -11,6 +11,70 @@ Would be good to go through this quickly with Nick to extract various requiremen
 
 ## Exemplars and Case studies
 
+### List prepared by Len for Vanessa 2021-10-25
+
+Below is a very rough summary prepared for Vanessa of the datasets which have been identified so far, including databases maintained by others to which we would want to link. 
+
+Sam has identified others at ANU but I don't have details.
+
+### Data about people
+#### The Koori Health Research Database (KHRD) and the Sandra Smith Archive at Museum Victoria. 
+For KHRD, Sandra Silcot has identified the steps required to make this fully maintainable and sustainable. Access to the Sandra Smith archive is still to be negotiated with the Museum. 
+#### Diane Barwick Archive at State Library of Victoria: 
+needs to be integrated with KHRD. Negotiation required with State Library. 
+#### The Victorian Perinatal database. 
+I only know the general situation. Jane Freemantle is across it. Negotiation needed with VicHealth. 
+#### WA linked data. 
+This was nominated by Sandra Eades. Investigation, documentation and negotiation needed.  
+#### ATSIDA, the Aboriginal and Torres Strait Islander Data Archive at the Australian Data Archive and ANU Archives. 
+This was specifically mentioned in the NCRIS Roadmap as an existing strength to be built on. It needs staff at the Data Archive to fully curate and digitise these collections and make them web-accessible. It includes
+#### Historical Colonial, State and Commonwealth censuses
+#### The inter-war Aboriginal censuses
+#### The Northern Territory Aboriginal Population Record (APR)
+#### Historical population data
+#### The Fred Hollows Archive (National Trachoma and Eye Health Program) 
+This comprises records of about 70,000 Indigenous and 30,000 non-Indigenous people surveyed in the 1970s and 1980s. Some paper records are held at AIATSIS. Microfilms of others are at UNSW Archives. There have been preliminary discussions with AIATSIS, the National Library and former members of the Hollows team about a program to digitise the records. IDN staff/resources would be needed. 
+#### Tasmanian Aboriginal genealogies: 
+these are extensive paper records which Ian Anderson has proposed incorporating in a database. Negotiation is still needed. 
+#### Aboriginal Deaths and Injuries in Custody. 
+UTS has taken over this data, but needs help to turn it into an ongoing public database
+#### People Australia. 
+Existing database at the National Library.
+#### Australian Dictionary of Biography. 
+Existing database at ANU.
+#### National, State/Territory and University Archives. 
+Need to review and link to Catalogues
+#### War Memorial. 
+Ditto
+#### National and State/Territory and University Museums. 
+Ditto
+#### Population, health and social data 
+including censuses and surveys.
+#### Public finance and the Indigenous economy. 
+Economic data was identified as a missing component in the Closing the Gap refresh. Databases include
+##### GDP and Genuine Progress Indicator (Torrens University). 
+An earlier application with Marcia for AIATSIS funding was never considered.
+##### Expenditure on Indigenous advancement. 
+Yothu Yindi Foundation has done extensive work on where the money goes in the NT. Needs to be a national database.
+### Data about place. 
+#### An Indigenous geography and gazetteer, including a Loc-I framework for tribal, language and community data. 
+Requires developmental work in collaboration with Universities, ABS, AIHW, Geoscience Australia, AURIN etc etc. 
+#### the ATNS Negotiated Settlements Database. 
+Needs to be made fully maintainable, sustainable and web-accessible? 
+#### Native Title databases at NNTT. 
+Marcia will need to negotiate this.
+#### AIATSIS Placenames Thesaurus. 
+Need Craig to agree to its use
+#### AIATSIS Subject Thesaurus. 
+Ditto
+#### Compound Gazetteer of Australia at Geoscience Australia
+#### Tindale/Horton map. 
+Strong demand but controversial.
+#### Dual placenames. 
+Need to work with GA and Commonwealth-State placenames committee.
+#### Austlang database. 
+Need to have access to boundaries.
+
 ### ATSIDA 
 
 As an exisiting node of ADA... what is it's status? NSW Library/Jumbunna plans for this? Partners? ADA role?
