@@ -17,6 +17,8 @@ Below is a very rough summary prepared for Vanessa of the datasets which have be
 
 Sam has identified others at ANU but I don't have details.
 
+Note that this task sometimes involves full-spectrum archiving, ie linking to indexes of the location of paper records, of digitised images, of legacy digital archives, etc.   
+
 ### Data about people
 #### The Koori Health Research Database (KHRD) and the Sandra Smith Archive at Museum Victoria. 
 For KHRD, Sandra Silcot has identified the steps required to make this fully maintainable and sustainable. Access to the Sandra Smith archive is still to be negotiated with the Museum. 
