@@ -58,9 +58,9 @@ Ditto
 including censuses and surveys.
 #### Public finance and the Indigenous economy. 
 Economic data was identified as a missing component in the Closing the Gap refresh. Databases include
-##### GDP and Genuine Progress Indicator (Torrens University). 
+- GDP and Genuine Progress Indicator (Torrens University). 
 An earlier application with Marcia for AIATSIS funding was never considered.
-##### Expenditure on Indigenous advancement. 
+- Expenditure on Indigenous advancement. 
 Yothu Yindi Foundation has done extensive work on where the money goes in the NT. Needs to be a national database.
 ### Data about place. 
 #### An Indigenous geography and gazetteer, including a Loc-I framework for tribal, language and community data. 
