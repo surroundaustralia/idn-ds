@@ -37,7 +37,7 @@ Len and Gordon's police districts dataset. Catalogued in ATSIDA@ADA: https://www
 - Historical population data
 #### ATSIDA at UTS Sydney
 An exisiting node of ADA... what is it's status? NSW Library/Jumbunna plans for this? Partners? ADA role?
-It looks like a Drupal installation? Is it up to date or not? Len says: they run Murkutu, which uses an old version of Drupal. They believe Murkutu is being updated.  
+It looks like a Drupal installation? Is it up to date or not? Len's response: they use Murkurtu, which uses an old version of Drupal. They believe Mukurtu is being updated.  
 - Aboriginal Deaths and Injuries in Custody. 
 ATSIDA@UTS has taken over this data, but needs help to turn it into an ongoing public database
 #### The Fred Hollows Archive (National Trachoma and Eye Health Program) 
