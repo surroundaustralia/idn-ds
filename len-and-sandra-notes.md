@@ -35,15 +35,15 @@ This was specifically mentioned in the NCRIS Roadmap as an existing strength to 
 Len and Gordon's police districts dataset. Catalogued in ATSIDA@ADA: https://www.atsida.edu.au/archive/datasets/au.edu.anu.ada.ddi.20002-nsw
 - The Northern Territory Aboriginal Population Record (APR)
 - Historical population data
-#### The Fred Hollows Archive (National Trachoma and Eye Health Program) 
-This comprises records of about 70,000 Indigenous and 30,000 non-Indigenous people surveyed in the 1970s and 1980s. Some paper records are held at AIATSIS. Microfilms of others are at UNSW Archives. There have been preliminary discussions with AIATSIS, the National Library and former members of the Hollows team about a program to digitise the records. IDN staff/resources would be needed. 
-#### Tasmanian Aboriginal genealogies: 
-these are extensive paper records which Ian Anderson has proposed incorporating in a database. Negotiation is still needed. 
 #### ATSIDA at UTS Sydney
 An exisiting node of ADA... what is it's status? NSW Library/Jumbunna plans for this? Partners? ADA role?
 It looks like a Drupal installation? Is it up to date or not? Len says: they run Murkutu, which uses an old version of Drupal. They believe Murkutu is being updated.  
 - Aboriginal Deaths and Injuries in Custody. 
 ATSIDA@UTS has taken over this data, but needs help to turn it into an ongoing public database
+#### The Fred Hollows Archive (National Trachoma and Eye Health Program) 
+This comprises records of about 70,000 Indigenous and 30,000 non-Indigenous people surveyed in the 1970s and 1980s. Some paper records are held at AIATSIS. Microfilms of others are at UNSW Archives. There have been preliminary discussions with AIATSIS, the National Library and former members of the Hollows team about a program to digitise the records. IDN staff/resources would be needed. 
+#### Tasmanian Aboriginal genealogies: 
+these are extensive paper records which Ian Anderson has proposed incorporating in a database. Negotiation is still needed. 
 #### People Australia. 
 Existing database at the National Library.
 #### Australian Dictionary of Biography. 
