@@ -21,7 +21,7 @@ Note that this task sometimes involves full-spectrum archiving, ie linking to in
 
 ### Data about people
 #### The Koori Health Research Database (KHRD) and the Sandra Smith Archive at Museum Victoria. 
-For KHRD, Sandra Silcot has identified the steps required to make this fully maintainable and sustainable. Access to the Sandra Smith archive is still to be negotiated with the Museum. 
+KHRD: a case study of what to do to rectify past less than state of the art practice, how to rectify. Sandra Silcot has identified the steps required to make this fully maintainable and sustainable. Access to the Sandra Smith archive is still to be negotiated with the Museum. 
 #### Diane Barwick Archive at State Library of Victoria: 
 needs to be integrated with KHRD. Negotiation required with State Library. 
 #### The Victorian Perinatal database. 
@@ -32,14 +32,18 @@ This was nominated by Sandra Eades. Investigation, documentation and negotiation
 This was specifically mentioned in the NCRIS Roadmap as an existing strength to be built on. It needs staff at the Data Archive to fully curate and digitise these collections and make them web-accessible. It includes
 #### Historical Colonial, State and Commonwealth censuses
 #### The inter-war Aboriginal censuses
+Len and Gordon's police districts dataset. Catalogued in ATSIDA@ADA: https://www.atsida.edu.au/archive/datasets/au.edu.anu.ada.ddi.20002-nsw
 #### The Northern Territory Aboriginal Population Record (APR)
 #### Historical population data
 #### The Fred Hollows Archive (National Trachoma and Eye Health Program) 
 This comprises records of about 70,000 Indigenous and 30,000 non-Indigenous people surveyed in the 1970s and 1980s. Some paper records are held at AIATSIS. Microfilms of others are at UNSW Archives. There have been preliminary discussions with AIATSIS, the National Library and former members of the Hollows team about a program to digitise the records. IDN staff/resources would be needed. 
 #### Tasmanian Aboriginal genealogies: 
 these are extensive paper records which Ian Anderson has proposed incorporating in a database. Negotiation is still needed. 
+#### ATSIDA at UTS Sydney
+An exisiting node of ADA... what is it's status? NSW Library/Jumbunna plans for this? Partners? ADA role?
+It looks like a Drupal installation? Is it up to date or not? Len says: they run Murkutu, which uses an old version of Drupal. They believe Murkutu is being updated.  
 #### Aboriginal Deaths and Injuries in Custody. 
-UTS has taken over this data, but needs help to turn it into an ongoing public database
+ATSIDA@UTS has taken over this data, but needs help to turn it into an ongoing public database
 #### People Australia. 
 Existing database at the National Library.
 #### Australian Dictionary of Biography. 
@@ -61,7 +65,12 @@ Yothu Yindi Foundation has done extensive work on where the money goes in the NT
 ### Data about place. 
 #### An Indigenous geography and gazetteer, including a Loc-I framework for tribal, language and community data. 
 Requires developmental work in collaboration with Universities, ABS, AIHW, Geoscience Australia, AURIN etc etc. 
-#### the ATNS Negotiated Settlements Database. 
+#### the ATNS Negotiated Settlements Database.
+Marcia's native title database and/or public native title data:
+ - what is the relationship of Marcia's work to publicly available native title data??? 
+ - see Sandra's work converting the NTD shape files to XML database (also aiatsis placenames matched to composite gazette ~78% ); 
+ - next step geosparql 1.1 plus vocabularise native title determination (long term Daghstul vocab governance issues); 
+ - can use this to quickly generate demos or ETL as guided by Surround and user requirements
 Needs to be made fully maintainable, sustainable and web-accessible? 
 #### Native Title databases at NNTT. 
 Marcia will need to negotiate this.
@@ -77,26 +86,10 @@ Need to work with GA and Commonwealth-State placenames committee.
 #### Austlang database. 
 Need to have access to boundaries.
 
-### ATSIDA 
-
-As an exisiting node of ADA... what is it's status? NSW Library/Jumbunna plans for this? Partners? ADA role?
-
-It looks like a Drupal installation? Is it up to date or not?
-
-### Len's police districts (in ATSIDA)
-
-Catalogued in ATSIDA: https://www.atsida.edu.au/archive/datasets/au.edu.anu.ada.ddi.20002-nsw
-
-### Marcia's native title database and/or public native title data:
- - what is the relationship of Marcia's work to publicly available native title data??? 
- - see Sandra's work converting the NTD shape files to XML database (also aiatsis placenames matched to composite gazette ~78% ); 
- - next step geosparql 1.1 plus vocabularise native title determination (long term Daghstul vocab governance issues); 
- - can use this to quickly generate demos or ETL as guided by Surround and user requirements
-
 ### Other orphan datasets and databases
 
- - various datasets Sam says mob are wanting to give him;
- - KHRD: case study of what to do to rectify past less than state of the art practice, how to rectify.
+ - various datasets Sam says people at ANU are wanting to give him;
+ 
  
 ## Requirements for user and organisation catalogue using case studies as examples
 
