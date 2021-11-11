@@ -30,11 +30,11 @@ I only know the general situation. Jane Freemantle is across it. Negotiation nee
 This was nominated by Sandra Eades. Investigation, documentation and negotiation needed.  
 #### ATSIDA, the Aboriginal and Torres Strait Islander Data Archive at the Australian Data Archive and ANU Archives. 
 This was specifically mentioned in the NCRIS Roadmap as an existing strength to be built on. It needs staff at the Data Archive to fully curate and digitise these collections and make them web-accessible. It includes:
-#####       Historical Colonial, State and Commonwealth censuses
-#####       The inter-war Aboriginal censuses
+- Historical Colonial, State and Commonwealth censuses
+- The inter-war Aboriginal censuses
 Len and Gordon's police districts dataset. Catalogued in ATSIDA@ADA: https://www.atsida.edu.au/archive/datasets/au.edu.anu.ada.ddi.20002-nsw
-#####       The Northern Territory Aboriginal Population Record (APR)
-#####       Historical population data
+- The Northern Territory Aboriginal Population Record (APR)
+- Historical population data
 #### The Fred Hollows Archive (National Trachoma and Eye Health Program) 
 This comprises records of about 70,000 Indigenous and 30,000 non-Indigenous people surveyed in the 1970s and 1980s. Some paper records are held at AIATSIS. Microfilms of others are at UNSW Archives. There have been preliminary discussions with AIATSIS, the National Library and former members of the Hollows team about a program to digitise the records. IDN staff/resources would be needed. 
 #### Tasmanian Aboriginal genealogies: 
@@ -42,7 +42,7 @@ these are extensive paper records which Ian Anderson has proposed incorporating 
 #### ATSIDA at UTS Sydney
 An exisiting node of ADA... what is it's status? NSW Library/Jumbunna plans for this? Partners? ADA role?
 It looks like a Drupal installation? Is it up to date or not? Len says: they run Murkutu, which uses an old version of Drupal. They believe Murkutu is being updated.  
-#####      Aboriginal Deaths and Injuries in Custody. 
+- Aboriginal Deaths and Injuries in Custody. 
 ATSIDA@UTS has taken over this data, but needs help to turn it into an ongoing public database
 #### People Australia. 
 Existing database at the National Library.
