@@ -2,7 +2,7 @@
 
 This file lists the sources of information from which Requirements for the IDN-DS are derived.
 
-Many of the sources taht are documents are stored in the same folder as this file.
+Many of the sources that are documents are stored in the same folder as this file.
 
 ## Source Items
 
