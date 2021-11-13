@@ -21,7 +21,7 @@ Note that this task sometimes involves full-spectrum archiving, ie linking to in
 
 ### Data about people
 #### The Koori Health Research Database (KHRD) and the Sandra Smith Archive at Museum Victoria. 
-KHRD: a case study of what to do to rectify past less than state of the art practice, how to rectify. Sandra Silcot has identified the steps required to make this fully maintainable and sustainable. Access to the Sandra Smith archive is still to be negotiated with the Museum. 
+KHRD: a case study of what to do to rectify past less than state of the art practice. Sandra has identified the steps required to make this fully maintainable and sustainable. Access to the Sandra Smith archive is still to be negotiated with the Museum. 
 #### Diane Barwick Archive at State Library of Victoria: 
 needs to be integrated with KHRD. Negotiation required with State Library. 
 #### The Victorian Perinatal database. 
