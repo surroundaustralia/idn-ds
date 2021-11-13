@@ -11,9 +11,9 @@ Would be good to go through this quickly with Nick to extract various requiremen
 
 ## Exemplars and Case studies
 
-### List prepared by Len for Vanessa 2021-10-25
+### List prepared by Len for Vanessa 2021-10-25, with Sandra's comments.
 
-Sandra's earlier notes incorporated in this very rough summary Len prepared for Vanessa of the datasets which have been identified so far, including databases maintained by others to which we would want to link. 
+Sandra's notes incorporated in this very rough summary Len prepared for Vanessa of the datasets which have been identified so far, including databases maintained by others to which we would want to link. 
 
 Sam has identified others at ANU but I don't have details.
 
