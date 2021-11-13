@@ -52,7 +52,7 @@ Existing database at ANU.
 Need to review and link to Catalogues
 #### War Memorial. 
 Ditto
-#### National and State/Territory and University Museums. 
+#### National, State/Territory and University Museums. 
 Ditto
 #### Population, health and social data 
 including censuses and surveys.
