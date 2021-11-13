@@ -15,10 +15,7 @@ Would be good to go through this quickly with Nick to extract various requiremen
 
 Sandra's notes incorporated in this very rough summary Len prepared for Vanessa of the datasets which have been identified so far, including databases maintained by others to which we would want to link. 
 
-Sam has identified others at ANU but I don't have details.
-
 Note that this task sometimes involves full-spectrum archiving, ie linking to indexes of the location of paper records, of digitised images, of legacy digital archives, etc.   
-
 ### Data about people
 #### The Koori Health Research Database (KHRD) and the Sandra Smith Archive at Museum Victoria. 
 KHRD: a case study of what to do to rectify past less than state of the art practice. Sandra has identified the steps required to make this fully maintainable and sustainable. Access to the Sandra Smith archive is still to be negotiated with the Museum. 
@@ -88,8 +85,7 @@ Need to have access to boundaries.
 
 ### Other orphan datasets and databases
 
- - various datasets Sam says people at ANU are wanting to give him;
- 
+ - various datasets Sam says people at ANU are wanting to give him; need details.
  
 ## Requirements for user and organisation catalogue using case studies as examples
 
@@ -131,7 +127,7 @@ Using Len's census work as an example:
 Explcitly capture and enable human friendly and useful presentations:
  - geospatial scale, extent and frequency
  - temporal scale, extent and frequency 
- - subject matter : indigenous field of interest (nb: See Sandra's work on aiatsis subject's thesaurus conversion)
+ - subject matter : Indigenous field of interest (nb: See Sandra's work on AIATSIS subject thesaurus conversion)
  - methodological descriptions (including software, scripts, workflows, aggregators, local browsing tools etc) - PROV-O should be adequate
    
 ## Thoughts on sources
@@ -141,7 +137,7 @@ Explcitly capture and enable human friendly and useful presentations:
  - opens way to having MR (machine readable) "permissions" to assist elders determining access;
  - Table 2 expresses access protection requirements succinctly;
  - many resonances with 2nd order cybernetics (i.e. including observer as part of observing systems) an important insight;
- - suggest emphasis in our project is not yet about representing indigenous ontologies (a long term project, should be bottom up) but about using and adapting "at hand" tools with a deliberately narrow focus on a CARE/FAIR enabled research data management lifecycle aiming to:
-   - raise indigenous data capabilities by offering a practical, working data repository and catalog; 
+ - suggest emphasis in our project is not yet about representing Indigenous ontologies (a long term project, should be bottom up) but about using and adapting "at hand" tools with a deliberately narrow focus on a CARE/FAIR enabled research data management lifecycle aiming to:
+   - raise Indigenous data capabilities by offering a practical, working data repository and catalog; 
    - offer working examples (case studies) of what is possible for critique and feedback by partners and network members; and
    - enable others to replicate and re-apply case studies in different contexts.
