@@ -111,6 +111,7 @@ Purpose of this "point of view" encoding is to provide the required data infrast
 Additional functional requirements compared to current ATSIDA content description (ATSIDA appears to be inactive? Nothing since 2018?).
 
 Using Len's census work as an example:
+ - note comments above re full-spectrum indexing
  - expose the machine readability of backend (ie. ddi/dcat-2/dcat-3), enable export of various serialisations (csv, json-ld, xml, rdf).
  - allocate PIDS for everything where it makes sense to be able to address and locate that thing;
    - governance;
@@ -125,7 +126,7 @@ Using Len's census work as an example:
  - provide direct access to the data or machine actionable process by which data can be requested (ldaca RO-Crate) ;
  - add linkage between the States (it's really one study with multiple geospatial extents (States, Police Districts) and multiple temporal extents, and multiple classification      systems (differences by State and temporal evolution). Possible candidate for "depth" study;
 
-Explcitly capture and enable human friendly and useful presentations:
+Explicitly capture and enable human friendly and useful presentations:
  - geospatial scale, extent and frequency
  - temporal scale, extent and frequency 
  - subject matter : Indigenous field of interest (nb: See Sandra's work on AIATSIS subject thesaurus conversion)
