@@ -98,7 +98,7 @@ Leverage data stored in ORCID - perhaps a "profile" to check ORCID data and dire
 Need additional encoding of the following (with aim of vocabularising these and publishing in RVA):
  - user/org "point of view", 
  - interests,
- - subjects (top level of aiatsis subjects - can easily skosify if aiatsis give permission),
+ - subjects (top level of AIATSIS subjects - can easily skosify if AIATSIS give permission),
  - preferred methods, skills, tools, approaches
  - available technologies used to generate data e.g. excel, fmpro, csv, drupal -- surely an existing vocab of software tools?
  - geospatial focus and mandate 
@@ -120,9 +120,10 @@ Using Len's census work as an example:
    - data owners, data custodians, data collections, datasets, subjects, places 
    - leverage AUSTLANG (see Sandra's work converting this to XML and matching to unofficial Tindale shape file)
  - explicitly add licensing;
- - provide sufficient information about the collection to enable a user to determine if its relevant and useful to them (a challenging task as this is quite a complex collection when provenance is considered)
+ - provide sufficient information about the collection to enable a user to determine if it is relevant and useful to them
+   - a challenging task as this is quite a complex collection when provenance is considered
  - provide direct access to the data or machine actionable process by which data can be requested (ldaca RO-Crate) ;
- - add linkage between the States (it's really one study with multiple geospatial extents (States, Police Districts) and multiple temporal extents, and multiple classification systems (differences by State and temporal evolution). Possible candidate for "depth" study;
+ - add linkage between the States (it's really one study with multiple geospatial extents (States, Police Districts) and multiple temporal extents, and multiple classification      systems (differences by State and temporal evolution). Possible candidate for "depth" study;
 
 Explcitly capture and enable human friendly and useful presentations:
  - geospatial scale, extent and frequency
