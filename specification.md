@@ -1,4 +1,4 @@
-# NDES Specification
+# IDN-DS Specification
 
 * **IRI**
     * <https://linked.data.gov.au/def/idn-ds/spec>
