@@ -22,3 +22,7 @@ Comment: I was thinking about the kinds of things represented in the ATNS databa
 
 Interesting paper describing the application of semantic web and OWL to represneting indigenous ontologies of relatedness. [Aaron](https://indigenousknowledge.unimelb.edu.au/about/governance/professor-aaron-corn) is a collaborator on the project who works at the University of Melbourne IKI (Indigenous Knowledge Institute).
 
+### 4. Sources for Indigenous Controlled Research Organisations
+
+ * early IDN work ARDC funded from 2019, useful contextual background: [https://ardc.edu.au/wp-content/uploads/2020/07/TD36-Final-report.pdf](https://ardc.edu.au/wp-content/uploads/2020/07/TD36-Final-report.pdf) (Note: no longer on IDN website -- it's status may need reindorsement by IDN Steering Committee?).
+
