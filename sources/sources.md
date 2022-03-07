@@ -26,3 +26,7 @@ Interesting paper describing the application of semantic web and OWL to represne
 
  * early IDN work ARDC funded from 2019, useful contextual background: [https://ardc.edu.au/wp-content/uploads/2020/07/TD36-Final-report.pdf](https://ardc.edu.au/wp-content/uploads/2020/07/TD36-Final-report.pdf) (Note: no longer on IDN website -- it's status may need reindorsement by IDN Steering Committee?).
 
+### 5. CARE principles in practice in Australian context
+
+  * from CSIRO: [Caring for Indigenous Data to Evaluate the Benefits of Indigenous Environmental Programs, 2021](https://link.springer.com/content/pdf/10.1007/s00267-021-01485-8.pdf). A useful source for ontology development work.
+
