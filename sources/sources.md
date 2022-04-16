@@ -30,3 +30,6 @@ Interesting paper describing the application of semantic web and OWL to represne
 
   * from CSIRO: [Caring for Indigenous Data to Evaluate the Benefits of Indigenous Environmental Programs, 2021](https://link.springer.com/content/pdf/10.1007/s00267-021-01485-8.pdf). A useful source for ontology development work.
 
+### 6. CARE principles in an International Context
+
+  * useful comparative overview: [CARE principles for Indigenous Data Governance](http://doi.org/10.5334/dsj-2020-043) particularly Fig 2 (useful starting point for vocabularisation).
