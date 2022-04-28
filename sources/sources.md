@@ -40,6 +40,19 @@ Interesting paper describing the application of semantic web and OWL to represne
 
 ### 8. Indigenous Studies - Research Data Management Policy
 
-  * [Ingrid Mason's Presentation 20 2014 National Indigenous Studies Conference on RDM Policy](https://aiatsis.gov.au/publication/117065) (one wonders what if anything has changed in the last 8 years?)
-
-  
+  * [Ingrid Mason's Presentation 20 2014 National Indigenous Studies Conference on RDM Policy](https://aiatsis.gov.au/publication/117065) (one wonders what if anything has changed in the last 8 years?). 
+ 
+ Slide 49 Data Management checklist (KISS):
+ * Policy: principles
+ * Storage: secure and robust
+ * Metadata: discover and access (FAIR:"F" and "A")
+ * Licensing: reuse (FAIR:"R")
+ * Ethics: consent (CARE:"A" and "R" and "E")??
+ * Identifiers: stable -- is the DOI/PID about the landing page, or about the dataset(s)???
+ 
+ Slide 60: Take away: Formalise info about data custodianship and support of indig. research:
+ * How decisions are made to collect or use data and support of indig. reserachrch
+ * What expert and relevant advice informs those decisons and how that advice is sought
+ * What prior decisons have been made and why
+ * What policies and processes (informational and technical access) are in place and why
+ 
