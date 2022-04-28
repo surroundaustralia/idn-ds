@@ -37,4 +37,9 @@ Interesting paper describing the application of semantic web and OWL to represne
 ### 7. FAIR Data Maturity model
 
   * [RDA's detailed work on FAIR](https://www.rd-alliance.org/system/files/FAIR%20Data%20Maturity%20Model_%20specification%20and%20guidelines_v0.90.pdf) (via Nic 16th April).
+
+### 8. Indigenous Studies - Research Data Management Policy
+
+  * [Ingrid Mason's Presentation 20 2014 National Indigenous Studies Conference on RDM Policy](https://aiatsis.gov.au/publication/117065) (one wonders what if anything has changed in the last 8 years?)
+
   
