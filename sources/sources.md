@@ -29,7 +29,7 @@ Interesting paper describing the application of semantic web and OWL to represne
 ### 5. CARE principles in practice in Australian context
 
   * from CSIRO: [Caring for Indigenous Data to Evaluate the Benefits of Indigenous Environmental Programs, 2021](https://link.springer.com/content/pdf/10.1007/s00267-021-01485-8.pdf). A useful source for ontology development work.
-  * Walter, Lovett et al [Indigenous Data Sovereignty in the Era of Big Data and Open Data](https://onlinelibrary.wiley.com/doi/10.1002/ajs4.141) Sam raised this 16 May 2022; see BADDR critique of Government datasets/data about indigenous people in Australia.
+  * Walter, Lovett et al [Indigenous Data Sovereignty in the Era of Big Data and Open Data](https://onlinelibrary.wiley.com/doi/10.1002/ajs4.141) Sam raised this 16 May 2022; see BADDR critique of Government datasets/data about indigenous people in Australia. NB: Paper was first published 28 Oct 2020. The following, published 21 Aug 2020, suggests Government is more responsive to this issue than is claimed in the paper; see https://www.rd-alliance.org/care-principles-indigenous-data-governance-included-evaluation-strategy-australian-government and https://www.pc.gov.au/inquiries/completed/indigenous-evaluation/draft
 
 ### 6. CARE principles in an International Context
 
