@@ -29,12 +29,14 @@ Interesting paper describing the application of semantic web and OWL to represne
 ### 5. CARE principles in practice in Australian context
 
   * from CSIRO: [Caring for Indigenous Data to Evaluate the Benefits of Indigenous Environmental Programs, 2021](https://link.springer.com/content/pdf/10.1007/s00267-021-01485-8.pdf). A useful source for ontology development work.
+  * Walter, Lovett et al [Indigenous Data Sovereignty in the Era of Big Data and Open Data](https://onlinelibrary.wiley.com/doi/10.1002/ajs4.141) Sam raised this 16 May 2022; see BADDR critique of Government datasets/data about indigenous people in Australia.
 
 ### 6. CARE principles in an International Context
 
   * useful comparative overview: [CARE principles for Indigenous Data Governance](http://doi.org/10.5334/dsj-2020-043) particularly Fig 2 (useful starting point for vocabularisation). Also worth reading the [Smithsonian Institute's 2019 policy implementation](https://www.si.edu/content/pdf/about/sd/SD609.pdf) referenced in the paper.
   * FNIGC (First Nation's Indigenous Governance Centre) in Canada have an approach called "OCAP" (Ownership, Control, Access, Possession), information here: [https://fnigc.ca/ocap-training/](https://fnigc.ca/ocap-training/).
   * Empowered Communities "Implementation Star": [https://www.ectoolkit.com.au/2019/03/18/ec-implementation-tool-descriptions/](https://www.ectoolkit.com.au/2019/03/18/ec-implementation-tool-descriptions/) an excellent framework for thinking about how to express and visualise progress towards indigenous ambitions (relevant for CARE and FAIR scoring).   
+  * Prof. Tahu Kukutai: [Whose data, whose ethics, whose decisions](https://www.data.govt.nz/assets/Uploads/Presentation-Tahu-Kukutai.pdf) Useful distinctions regarding  classification of indgenous data and data gov/sov roles in Māori context.
 
 ### 7. FAIR Data Maturity model
 
