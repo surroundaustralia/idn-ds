@@ -63,4 +63,8 @@ Interesting paper describing the application of semantic web and OWL to represne
 ### 9. Model of White Colonisation on Aboriginal Health
  * recent paper (Marcia L co-author): [Australian First Nations response to the pandemic: A dramatic reversal of the ‘gap’](https://doi.org/10.1111/jpc.15701) with a model of colonisation. Obviously beyond Skos, but it would be great to explore to what extent a formal OWL ontology can model and express these causal relationships. See [Figure 1](https://onlinelibrary.wiley.com/cms/asset/fcd68b64-1483-4b95-801d-63b0da468572/jpc15701-fig-0001-m.jpg).
 
+### 10. Relevant ontologies
+
+ * from Canada, [CFLA & NIKLA FNMIO ontology](http://fopl.ca/news/cfla-and-nikla-release-first-nations-metis-and-inuit-indigenous-ontology-fnmiio/) this appears to be a spreadsheet but expresses relevant relationships.
+
  
