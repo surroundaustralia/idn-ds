@@ -55,7 +55,7 @@ Interesting paper describing the application of semantic web and OWL to represne
  * Identifiers: stable -- is the DOI/PID about the landing page, or about the dataset(s)???
  
  Slide 60: Take away: Formalise info about data custodianship and support of indig. research:
- * How decisions are made to collect or use data and support of indig. reserachrch
+ * How decisions are made to collect or use data and support of indig. research
  * What expert and relevant advice informs those decisons and how that advice is sought
  * What prior decisons have been made and why
  * What policies and processes (informational and technical access) are in place and why
