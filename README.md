@@ -3,6 +3,10 @@ This repository contains the Indigenous Data Network (IDN)'s Data Standard. It c
 
 The logic coordinating the parts of the Standard is taken from the [Profiles Vocabulary](https://w3c.github.io/dx-prof/prof/) which is a set of terminology for defining multi-part standards, their roles and relations to other things.
 
+## Sources
+
+See the file [sources/sources.md](sources/sources.md) for references which have been influential in underpinning the IDN data standard.
+
 ## Status
 
 This implementation is in an early stage of development, as of November 2021. As parts of it are established, they will be documented here and in other ways according the the _Profiles Vocabulary_ too, such as with a formal "profile declaration".
