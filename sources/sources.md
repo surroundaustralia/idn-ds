@@ -67,4 +67,10 @@ Interesting paper describing the application of semantic web and OWL to represne
 
  * from Canada, [CFLA & NIKLA FNMIO ontology](http://fopl.ca/news/cfla-and-nikla-release-first-nations-metis-and-inuit-indigenous-ontology-fnmiio/) this appears to be a spreadsheet but expresses relevant relationships.
 
+### 11. Bardess Data Science Maturity Curve
+
+ * Marcia advised by email 29 May 2022: "Very keen on using this as one of our tools in the mapping of IT/data ecosystems with our community partners – as we know, ATSICHS is using it to very good effect via the Centre for Data Science collaboration.". See: [https://www.bardess.com/the-bardess-data-science-maturity-curve/](https://www.bardess.com/the-bardess-data-science-maturity-curve/).
+
+
+
  
