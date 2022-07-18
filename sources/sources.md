@@ -71,6 +71,10 @@ Interesting paper describing the application of semantic web and OWL to represne
 
  * Marcia advised by email 29 May 2022: "Very keen on using this as one of our tools in the mapping of IT/data ecosystems with our community partners – as we know, ATSICHS is using it to very good effect via the Centre for Data Science collaboration.". See: [https://www.bardess.com/the-bardess-data-science-maturity-curve/](https://www.bardess.com/the-bardess-data-science-maturity-curve/).
 
+### 12. Keynote Dataverse2022 - Local Contexts - TRADITIONAL KNOWLEDGE LABELS and NOTICES
+
+ * Guidance for how TK/BC labels are being applied/used: [https://osf.io/dafuy](https://osf.io/dafuy) presented at Dataverse2022 14 June 2022 by Jane Anderson and Maui Hudson.
+
 
 
  
